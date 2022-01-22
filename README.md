@@ -16,9 +16,11 @@ After working through the analysis with the updated student count after removing
 
 To put things into perspective, I have two images below showing the impact of removing the 9th grade scores on the results to the top 5 schools.
 
+This first one is showing the results before removing the 9th grade scores.
 ![](/Resources/Top_5_before.png)
 
-
+This second one is showing the results after removing the 9th grade scores.  As you can see, the change was minimal.  
+![](/Resources/Top_5_after.png)
 
 **Summary**
 When replacing all of the ninth grade reading and math scores for Thomas High School, overall, there were not any significant changes to the outcome.  However, the things that did change was the number we used to calculate the passing percentages.  Since there were no grades included in the calculation, I calculated the total number of students for 10th - 12th to get the correct percentages.  Once I calculated the correct number of students, I had updated the passing math percentage, reading percentage and the overall passing percentage in the dataframe.  The average math score and average reading score updated due to the change in data as well.  Since there were no scores for 9th grade, the average was taken with the clean data.  In the end, the main change was to the data for Thomas High School and when looking at the district as a whole, by school type, or by range of per student budget, the averages and percentages changed slightly.
