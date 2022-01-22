@@ -16,7 +16,7 @@ After working through the analysis with the updated student count after removing
 
 To put things into perspective, I have two images below showing the impact of removing the 9th grade scores on the results to the top 5 schools.
 
-![](/Resources/Top 5 before removing THS 9th grade.png)
+![](/Resources/Top_5_before.png)
 
 
 
